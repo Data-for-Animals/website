@@ -80,7 +80,7 @@ const config = {
       navbar: {
         title: 'Data for Animals',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Data for Animals Logo',
           src: 'img/logo.svg',
         },
         items: [
